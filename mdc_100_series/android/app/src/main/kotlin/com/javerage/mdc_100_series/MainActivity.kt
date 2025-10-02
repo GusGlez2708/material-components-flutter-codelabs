@@ -1,4 +1,4 @@
-package com.example.shrine
+package com.javerage.mdc_100_series
 
 import io.flutter.embedding.android.FlutterActivity
 
